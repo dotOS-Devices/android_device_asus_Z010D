@@ -13,3 +13,8 @@ PRODUCT_MODEL := Zenfone Max
 PRODUCT_MANUFACTURER := asus
 
 PRODUCT_GMS_CLIENTID_BASE := android-asus
+
+# DotExports
+
+WITH_MAGISK := true
+DOT_OFFICIAL := true
